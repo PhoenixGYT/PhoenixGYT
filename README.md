@@ -3,7 +3,7 @@ Dara Osunkoya
 ##### Student
 ###### About Me
 - **Major**: Computer Science
-- **School**: Northwest Missouri State University
+- **School**: University of Arizona
 - **Interests**: Playing games, Rock Climbing, Hiking, Reading
 <!--
 **PhoenixGYT/PhoenixGYT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
